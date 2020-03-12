@@ -9,4 +9,7 @@ Please add yourself to this list with a short description of what you are workin
 - Leila Hedayatifar
 
    I am currently analyzing to understand how countries are controlling the spread of coronavirus. 
+   
+- Eliza Guseva
+ Looking at how events facilitates virus propagation/benefits of cancelling.
 
